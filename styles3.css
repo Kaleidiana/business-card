@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+    text-align: centre;
+}
+
+.Diana-img {
+    width: 150px;
+    border: 1px border-color: blue;
+}
+
+.card {
+    border: 1px;
+    border-color: blue;
+    border-style: solid;
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    width: 400px;
+    color: #2b2839;
+    background: #ddebf8;
+    border-bottom: 6px solid d8cefe;
+    margin: 0 auto;
+}
+
+.border-blue {
+    border: 1px solid blue;
+}
